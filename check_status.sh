@@ -11,6 +11,7 @@ check_status() {
      fi
  sleep 2
  done
+}
 
 main() {
   echo "start main"
